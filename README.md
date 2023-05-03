@@ -33,5 +33,4 @@ DOI: The DOI from the paper that the information were extracted from.
 
 # Where to find us
 
-So feel free to skip into the interesting part and press the link to start browsing our database: [https://alexanmv.github.io/try1.github.io/
-](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html)
+So feel free to skip into the interesting part and press the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html) to start browsing our database.
