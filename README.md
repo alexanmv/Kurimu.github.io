@@ -1,4 +1,4 @@
-# Pangenome Database
+# Pangenome Curated Collection
 ![two-parts-v1](https://github.com/alexanmv/try1.github.io/assets/56640707/46531437-4246-4217-a932-07d81712711b)
 
 # About the Database
