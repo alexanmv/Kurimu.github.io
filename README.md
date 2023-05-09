@@ -1,5 +1,5 @@
 # Pangenome Database
-<img width="797" alt="sequence-tube-map-example" src="https://user-images.githubusercontent.com/56640707/235935440-9c6fe2ad-5974-48c7-9a3f-e84d18597ed2.png">
+![two-parts-v1](https://github.com/alexanmv/try1.github.io/assets/56640707/46531437-4246-4217-a932-07d81712711b)
 
 # About the Database
 
