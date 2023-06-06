@@ -33,61 +33,61 @@ DOI: The DOI from the research paper that the information was extracted from.
 
 # List with the pangenome analysis methods and hyperlinks
 
-MCL
-PanCGH †
-EDGAR
-progMauve
-Panseq †
-SOP (pg) †
-Mugsy-A
-PGAT
-CAMBer
-PanOCT
-PGAP
-get_homologues
-PanCake
-PanFunPro
-Pannotator †
-ITEP
-MetaRef †
-SplitMEM
-Prokka
-Harvest
-eCAMBer
-PanGP †
-PanTetris †
-PanFP
-Roary
-PanCoreGen
-micropan
-‘VarDetPGI’
-AGAPE
-seqana
-Scoary
-BPGA
-Bloom FT
-PGAdb-builder
-PanTools
-BGDMdocker
-panX
-Phandango
-EUPAN
-KinFin
-MSPminer
-PanWeb †
-Hierarchicalsets
-PanViz
-RPAN
-Panaconda
-PanGeT
-PanACEA
-seq-seq-pan
-NGSPanPipe
-PanGeneHome
-Piggy
-PanVC
-PGAP-X
-get_phylomarkers
+MCL[link](http://micans.org/mcl/),
+PanCGH †,
+EDGAR[link](https://www.uni-giessen.de/de/fbz/fb08/Inst/bioinformatik/software/EDGAR),
+progMauve[link](https://darlinglab.org/mauve/mauve.html),
+Panseq †,
+SOP (pg) †,
+Mugsy-A[link](https://mugsy.sourceforge.net/),
+PGAT[link](http://tools.uwgenomics.org/pgat/),
+CAMBer[link](http://bioputer.mimuw.edu.pl/camber/),
+PanOCT[link](https://sourceforge.net/projects/panoct/),
+PGAP[link](https://sourceforge.net/projects/pgap/),
+get_homologues[link](https://github.com/eead-csic-compbio/get_homologues),
+PanCake[link](https://bitbucket.org/CorinnaErnst/pancake/wiki/Home),
+PanFunPro[link](https://zenodo.org/record/7583),
+Pannotator †,
+ITEP[link](https://hood-price.isbscience.org/),
+MetaRef †,
+SplitMEM[link](https://sourceforge.net/projects/splitmem/),
+Prokka[link](http://www.vicbioinformatics.com/software.prokka.shtml),
+Harvest[link](https://github.com/marbl/harvest),
+eCAMBer[link](http://bioputer.mimuw.edu.pl/ecamber/),
+PanGP †,
+PanTetris †,
+PanFP[link](https://github.com/srjun/PanFP),
+Roary[link](http://sanger-pathogens.github.io/Roary/),
+PanCoreGen[link](https://sourceforge.net/projects/pancoregen1/),
+micropan[link](https://cran.r-project.org/web/packages/micropan/index.html),
+‘VarDetPGI’,
+AGAPE[link](https://github.com/yeastgenome/AGAPE),
+seqana[link](https://www.uni-ulm.de/en/in/institute-of-theoretical-computer-science/research/seqana.html),
+Scoary[link](https://github.com/AdmiralenOla/Scoary),
+BPGA[link](https://sourceforge.net/projects/bpgatool/),
+Bloom FT[link](https://github.com/GuillaumeHolley/BloomFilterTrie),
+PGAdb-builder[link](http://wgmlstdb.imst.nsysu.edu.tw/),
+PanTools[link](https://github.com/sheikhizadeh/pantools),
+BGDMdocker[link](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/),
+panX[link](https://pangenome.org/),
+Phandango[link](https://github.com/jameshadfield/phandango),
+EUPAN[link](https://cgm.sjtu.edu.cn/eupan/index.html),
+KinFin[link](https://github.com/DRL/kinfin),
+MSPminer[link](https://www.enterome.com/downloads/),
+PanWeb †,
+Hierarchicalsets[link](https://cran.r-project.org/web/packages/hierarchicalSets/index.html),
+PanViz[link](https://github.com/thomasp85/PanViz),
+RPAN[link](http://cgm.sjtu.edu.cn/3kricedb/),
+Panaconda[link](https://github.com/aswarren/pangenome_graphs),
+PanGeT[link](https://github.com/PanGeTv1/PanGeT),
+PanACEA[link](https://github.com/JCVenterInstitute/PanACEA/),
+seq-seq-pan[link](https://gitlab.com/rki_bioinformatics/seq-seq-pan),
+NGSPanPipe[link](https://github.com/Biomedinformatics/NGSPanPipe),
+PanGeneHome[link](https://pangenehome.lmge.uca.fr/),
+Piggy[link](https://github.com/harry-thorpe/piggy),
+PanVC[link](https://gitlab.com/dvalenzu/PanVC),
+PGAP-X[link](https://pgapx.zhaopage.com/),
+get_phylomarkers[link](https://github.com/vinuesa/get_phylomarkers).
 
 # Where to find us
 
