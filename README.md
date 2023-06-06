@@ -31,6 +31,63 @@ Reference: The name of the leader of the research and the year the paper was pub
 
 DOI: The DOI from the research paper that the information was extracted from.
 
+# List with the pangenome analysis methods and hyperlinks
+
+MCL
+PanCGH †
+EDGAR
+progMauve
+Panseq †
+SOP (pg) †
+Mugsy-A
+PGAT
+CAMBer
+PanOCT
+PGAP
+get_homologues
+PanCake
+PanFunPro
+Pannotator †
+ITEP
+MetaRef †
+SplitMEM
+Prokka
+Harvest
+eCAMBer
+PanGP †
+PanTetris †
+PanFP
+Roary
+PanCoreGen
+micropan
+‘VarDetPGI’
+AGAPE
+seqana
+Scoary
+BPGA
+Bloom FT
+PGAdb-builder
+PanTools
+BGDMdocker
+panX
+Phandango
+EUPAN
+KinFin
+MSPminer
+PanWeb †
+Hierarchicalsets
+PanViz
+RPAN
+Panaconda
+PanGeT
+PanACEA
+seq-seq-pan
+NGSPanPipe
+PanGeneHome
+Piggy
+PanVC
+PGAP-X
+get_phylomarkers
 
 # Where to find us
 
