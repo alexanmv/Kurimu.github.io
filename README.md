@@ -1,94 +1,162 @@
-# Pangenome Curated Collection
+# Kurīmu クリーム
 ![two-parts-v1](https://github.com/alexanmv/try1.github.io/assets/56640707/46531437-4246-4217-a932-07d81712711b)
 
 # About the Database
 
-In an attempt to make biologists, bioinformaticians and doctors work easier our team built a database which contain genetic information on most known bacteria. It’s a fully constructed database which provides available information that is needed in order to learn everything about a species’ pangenome. This information was abstracted from several research papers published in the most prominent peer reviewed scientific journals. 
+クリーム
+
+
+Kurīmu (meaning "cream" in Japanese) is a pangenome data collection for public access. Kurīmu is a highly curated pangenome collection that provides consistent and validated information needed to document published reports for a wide variety of pangenomes at various taxonomic levels. This information was obtained from hundreds of research papers published in peer reviewed scientific journals and incorporated into a database for consistency and reproducibility of the reported and/or adapted results.
+
 
 # Information Provided
 
-This database offers a variety of significant information well organized and ready to use in various domains of research. Scientists from different fields can save time and instead of spending hours reading papers trying to locate information they need, can just browse through this database, and effectively reach their target in much less time. In this database, information that is difficult to find from scratch is recorded for every species, genus, population, phylum, group, order, class, strain, or family. To make the database  easy to use by everyone below we illustrate the kind of information provided within each column.
+The Kurīmu data collection offers a variety of organized and ready to use information for hundreds of pangenomes, corresponding to over 20,000 individual genome sequences. This collection can serve as an entry point for any pangenome property by taxon, pangenome size, NCBI taxonomy identifier, and citations in the literature. In Kurīmu, information has been harvested for pangenomes at all taxonomic levels. Fields are shown as follows:
 
-Pangenome: The official scientific name of the species, genus, population, phylum, group, order, class, strain, or family.
+-Pangenome: The official scientific name of the taxon; please note that in some cases there are phenotypic (polyphyletic) groups, such as photosynthetic prokaryotes
 
-Unique ID: A unique identifier for the organism which is constructed after a certain method.
+-Unique_ID: A unique identifier for the organism constructed with MD5
 
-NCBI_txid: The NCBI tax id which can be used in the NCBI database to gain more information about the specific organism.
+-NCBI_txid: The Taxonomy identifier provided by the NCBI database linking to other data resources
 
-Effective: The number of genomes that were used by researchers in order to conduct their research.
+-Effective: The ‘true’ number of genomes used for the calculation of pangenome parameters
 
-Level: The biological level that this organism belongs to.
+-Level: The taxonomic level that this organism belongs to
 
-Pan: The pangenome of the organism .
+-Pan: The pangenome size of the entry
 
-Core: The number of genomes located to every one of the organisms that belong to a group.
+-Core: The number of core genes of the entry
 
-Peripheral: The number of genomes shared by some of the organisms of the group.
+-Peripheral: The number of peripheral genes of the entry
 
-Unique: The number of unique genomes that exist only in some of the organisms of the group and are not sharable.
+-Unique: The number of unique genes of the entry
 
-Reference: The name of the leader of the research and the year the paper was published.
+-Core_pan: The percentage of the pangenome belonging to the core set (an index of coherence: the higher, the tighter the pangenome)
 
-DOI: The DOI from the research paper that the information was extracted from.
+-Shell_eff: The ratio of unique genes per genome (an index of ‘uniqueness’/dispersion: the lower, the tighter the pangenome)
+
+-Reference: First author surname and year of publication for the published report
+
+-DOI: digital object identifier for the corresponding publication
+
+-Gene_cluster: signifies whether the pangenome partitioning refers to traditional protein family clusters (C, red in figure above) or the more recent adoption of the term for gene-level variation (G, green in figure above)
+
+The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publication), in lieu of Data Supplements: DS1 for all pangenomes; DS2 for gene-level pangenomes and missing values for family clusters; DS3 when C+P+U=T (see Box 2, original publication); DS4 for duplicate entries with variable counts for pangenome sets.
+
 
 # List with the pangenome analysis methods and hyperlinks
 
-MCL[link](http://micans.org/mcl/),
+[MCL](http://micans.org/mcl/),
+
 PanCGH †,
-EDGAR[link](https://www.uni-giessen.de/de/fbz/fb08/Inst/bioinformatik/software/EDGAR),
-progMauve[link](https://darlinglab.org/mauve/mauve.html),
+
+[EDGAR](https://www.uni-giessen.de/de/fbz/fb08/Inst/bioinformatik/software/EDGAR),
+
+[progMauve](https://darlinglab.org/mauve/mauve.html),
+
 Panseq †,
+
 SOP (pg) †,
-Mugsy-A[link](https://mugsy.sourceforge.net/),
-PGAT[link](http://tools.uwgenomics.org/pgat/),
-CAMBer[link](http://bioputer.mimuw.edu.pl/camber/),
-PanOCT[link](https://sourceforge.net/projects/panoct/),
+
+[Mugsy-A](https://mugsy.sourceforge.net/),
+
+[PGAT](http://tools.uwgenomics.org/pgat/),
+
+[CAMBer](http://bioputer.mimuw.edu.pl/camber/),
+
+[PanOCT](https://sourceforge.net/projects/panoct/),
+
 PGAP[link](https://sourceforge.net/projects/pgap/),
+
 get_homologues[link](https://github.com/eead-csic-compbio/get_homologues),
+
 PanCake[link](https://bitbucket.org/CorinnaErnst/pancake/wiki/Home),
+
 PanFunPro[link](https://zenodo.org/record/7583),
+
 Pannotator †,
+
 ITEP[link](https://hood-price.isbscience.org/),
+
 MetaRef †,
+
 SplitMEM[link](https://sourceforge.net/projects/splitmem/),
+
 Prokka[link](http://www.vicbioinformatics.com/software.prokka.shtml),
+
 Harvest[link](https://github.com/marbl/harvest),
+
 eCAMBer[link](http://bioputer.mimuw.edu.pl/ecamber/),
+
 PanGP †,
+
 PanTetris †,
+
 PanFP[link](https://github.com/srjun/PanFP),
+
 Roary[link](http://sanger-pathogens.github.io/Roary/),
+
 PanCoreGen[link](https://sourceforge.net/projects/pancoregen1/),
+
 micropan[link](https://cran.r-project.org/web/packages/micropan/index.html),
+
 ‘VarDetPGI’,
+
 AGAPE[link](https://github.com/yeastgenome/AGAPE),
+
 seqana[link](https://www.uni-ulm.de/en/in/institute-of-theoretical-computer-science/research/seqana.html),
+
 Scoary[link](https://github.com/AdmiralenOla/Scoary),
+
 BPGA[link](https://sourceforge.net/projects/bpgatool/),
+
 Bloom FT[link](https://github.com/GuillaumeHolley/BloomFilterTrie),
+
 PGAdb-builder[link](http://wgmlstdb.imst.nsysu.edu.tw/),
+
 PanTools[link](https://github.com/sheikhizadeh/pantools),
+
 BGDMdocker[link](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/),
+
 panX[link](https://pangenome.org/),
+
 Phandango[link](https://github.com/jameshadfield/phandango),
+
 EUPAN[link](https://cgm.sjtu.edu.cn/eupan/index.html),
+
 KinFin[link](https://github.com/DRL/kinfin),
+
 MSPminer[link](https://www.enterome.com/downloads/),
+
 PanWeb †,
+
 Hierarchicalsets[link](https://cran.r-project.org/web/packages/hierarchicalSets/index.html),
+
 PanViz[link](https://github.com/thomasp85/PanViz),
+
 RPAN[link](http://cgm.sjtu.edu.cn/3kricedb/),
+
 Panaconda[link](https://github.com/aswarren/pangenome_graphs),
+
 PanGeT[link](https://github.com/PanGeTv1/PanGeT),
+
 PanACEA[link](https://github.com/JCVenterInstitute/PanACEA/),
+
 seq-seq-pan[link](https://gitlab.com/rki_bioinformatics/seq-seq-pan),
+
 NGSPanPipe[link](https://github.com/Biomedinformatics/NGSPanPipe),
+
 PanGeneHome[link](https://pangenehome.lmge.uca.fr/),
+
 Piggy[link](https://github.com/harry-thorpe/piggy),
+
 PanVC[link](https://gitlab.com/dvalenzu/PanVC),
+
 PGAP-X[link](https://pgapx.zhaopage.com/),
+
 get_phylomarkers[link](https://github.com/vinuesa/get_phylomarkers).
 
-# Where to find us
 
-So feel free to skip into the interesting part and press the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html) to start browsing our database.
+# How to access
+
+Hit the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html) to start browsing Kurīmu.
