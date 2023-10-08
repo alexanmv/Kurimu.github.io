@@ -46,8 +46,7 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 # List with the pangenome analysis methods and hyperlinks
 
-|A                                             |                                      |H|
-|                                                                                     |---|        
+|A                                             |                                      |H|                                                                                     |---|        
 | -------------------------------------------- |                                      |[Hierarchicalsets](https://cran.r-project.org/web/packages/hierarchicalSets/index.html)|      
 |[AGAPE](https://github.com/yeastgenome/AGAPE) |                                      |[Harvest](https://github.com/marbl/harvest)|
 |...                                           |                                      |...|
