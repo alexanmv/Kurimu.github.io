@@ -49,10 +49,10 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 |A                                             |                                                                                       
 | -------------------------------------------- |                                            
 |[AGAPE](https://github.com/yeastgenome/AGAPE) |                                      
-|...                                           |                                      
-|B                                             |                                        
-|[BPGA](https://sourceforge.net/projects/bpgatool/) |                                 
-|[Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie) |                     
+|...|                                      
+|B|                                        
+|[BPGA](https://sourceforge.net/projects/bpgatool/)|                                 
+|[Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie)|                     
 |[BGDMdocker](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/)|                                          
 |...|                                                                                  
 |C|                                                                                   
@@ -64,8 +64,8 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 |[EUPAN](https://cgm.sjtu.edu.cn/eupan/index.html)|                                   
 |...|                                                                                 
 |G|                                                                                   
-|[get_phylomarkers](https://github.com/vinuesa/get_phylomarkers)                      
-|[get_homologues](https://github.com/eead-csic-compbio/get_homologues)                
+|[get_phylomarkers](https://github.com/vinuesa/get_phylomarkers)|                      
+|[get_homologues](https://github.com/eead-csic-compbio/get_homologues)|                
 |...| 
 |H|
 |[Hierarchicalsets](https://cran.r-project.org/web/packages/hierarchicalSets/index.html)|
@@ -130,6 +130,7 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 |V|
 |‘VarDetPGI’|
 |...|
+
 # How to access
 
 Hit the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html) to start browsing Kurīmu.
