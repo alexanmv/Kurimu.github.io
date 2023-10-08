@@ -45,8 +45,9 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 
 # List with the pangenome analysis methods and hyperlinks
-[AGAPE](https://github.com/yeastgenome/AGAPE),
-
+|[AGAPE](https://github.com/yeastgenome/AGAPE),|
+|                                              |
+|                                              |  
 [BPGA](https://sourceforge.net/projects/bpgatool/),
 
 [Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie),
