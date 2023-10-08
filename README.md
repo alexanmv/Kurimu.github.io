@@ -46,27 +46,47 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 # List with the pangenome analysis methods and hyperlinks
 
-|A                                             |                                      |H|                                                                                     |---|        
-| -------------------------------------------- |                                      |[Hierarchicalsets](https://cran.r-project.org/web/packages/hierarchicalSets/index.html)|      
-|[AGAPE](https://github.com/yeastgenome/AGAPE) |                                      |[Harvest](https://github.com/marbl/harvest)|
-|...                                           |                                      |...|
-|B                                             |                                      |I   
-|[BPGA](https://sourceforge.net/projects/bpgatool/) |                                 |[ITEP](https://hood-price.isbscience.org/)|
-|[Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie) |                     |...| 
-|[BGDMdocker](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/)|      |K|                                     
-|...|                                                                                 |[KinFin](https://github.com/DRL/kinfin)| 
-|C|                                                                                   |...| 
-|[CAMBer](http://bioputer.mimuw.edu.pl/camber/)|                                      |M|
-|...|                                                                                 |[MCL](http://micans.org/mcl/)|
-|E|                                                                                   |[Mugsy-A](https://mugsy.sourceforge.net/)| 
-|[EDGAR](https://www.uni-giessen.de/de/fbz/fb08/Inst/bioinformatik/software/EDGAR)|   |MetaRef †|
-|[eCAMBer](http://bioputer.mimuw.edu.pl/ecamber/)|                                    |[micropan](https://cran.r-project.org/web/packages/micropan/index.html)|
-|[EUPAN](https://cgm.sjtu.edu.cn/eupan/index.html)|                                   |[MSPminer](https://www.enterome.com/downloads/)| 
-|...|                                                                                 |...| 
-|G|                                                                                   |N| 
-|[get_phylomarkers](https://github.com/vinuesa/get_phylomarkers)                      |[NGSPanPipe](https://github.com/Biomedinformatics/NGSPanPipe)|
-|[get_homologues](https://github.com/eead-csic-compbio/get_homologues)                |...|
-|...|                                                                                 |
+|A                                             |                                                                                       
+| -------------------------------------------- |                                            
+|[AGAPE](https://github.com/yeastgenome/AGAPE) |                                      
+|...                                           |                                      
+|B                                             |                                        
+|[BPGA](https://sourceforge.net/projects/bpgatool/) |                                 
+|[Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie) |                     
+|[BGDMdocker](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/)|                                          
+|...|                                                                                  
+|C|                                                                                   
+|[CAMBer](http://bioputer.mimuw.edu.pl/camber/)|                                      
+|...|                                                                                 
+|E|                                                                                    
+|[EDGAR](https://www.uni-giessen.de/de/fbz/fb08/Inst/bioinformatik/software/EDGAR)|   
+|[eCAMBer](http://bioputer.mimuw.edu.pl/ecamber/)|                                    
+|[EUPAN](https://cgm.sjtu.edu.cn/eupan/index.html)|                                   
+|...|                                                                                 
+|G|                                                                                   
+|[get_phylomarkers](https://github.com/vinuesa/get_phylomarkers)                      
+|[get_homologues](https://github.com/eead-csic-compbio/get_homologues)                
+|...| 
+|H|
+|[Hierarchicalsets](https://cran.r-project.org/web/packages/hierarchicalSets/index.html)|
+|[Harvest](https://github.com/marbl/harvest)|
+|...|
+|I|
+|[ITEP](https://hood-price.isbscience.org/)|
+|...|
+|K|
+|[KinFin](https://github.com/DRL/kinfin)|
+|...|
+|M|
+|[MCL](http://micans.org/mcl/)|
+|[Mugsy-A](https://mugsy.sourceforge.net/)|
+|MetaRef †|
+|[micropan](https://cran.r-project.org/web/packages/micropan/index.html)|
+|[MSPminer](https://www.enterome.com/downloads/)|
+|...|
+|N|
+|[NGSPanPipe](https://github.com/Biomedinformatics/NGSPanPipe)|
+|...|
 |P|
 |PanCGH †|
 |[progMauve](https://darlinglab.org/mauve/mauve.html)|
