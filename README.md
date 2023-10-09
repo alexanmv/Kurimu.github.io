@@ -46,7 +46,7 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 # List with the pangenome analysis methods and hyperlinks
 
-|A                                             |K|****[panX](https://pangenome.org/)****|                                                                                      
+|A                                             |K|[panX](https://pangenome.org/)|                                                                                      
 | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |                                                                                       
 |[AGAPE](https://github.com/yeastgenome/AGAPE) | [KinFin](https://github.com/DRL/kinfin)|[PGAdb-builder](http://wgmlstdb.imst.nsysu.edu.tw/)|                              
 |...|**M**|[PanTools](https://github.com/sheikhizadeh/pantools)|                                      
