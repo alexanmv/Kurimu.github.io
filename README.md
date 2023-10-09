@@ -46,32 +46,32 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 # List with the pangenome analysis methods and hyperlinks
 
-|A                                             |K|[panX](https://pangenome.org/)|                                                                                      
+|A                                             |K|**[panX](https://pangenome.org/)**|                                                                                      
 | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |                                                                                       
 |[AGAPE](https://github.com/yeastgenome/AGAPE) | [KinFin](https://github.com/DRL/kinfin)|[PGAdb-builder](http://wgmlstdb.imst.nsysu.edu.tw/)|                              
-|...|M|[PanTools](https://github.com/sheikhizadeh/pantools)|                                      
+|...|**M**|[PanTools](https://github.com/sheikhizadeh/pantools)|                                      
 |**B**|[MCL](http://micans.org/mcl/)|[Phandango](https://github.com/jameshadfield/phandango)|                                      
 |[BPGA](https://sourceforge.net/projects/bpgatool/)|[Mugsy-A](https://mugsy.sourceforge.net/)|PanWeb †|                                 
 |[Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie)|MetaRef †|[PanViz](https://github.com/thomasp85/PanViz)|                     
 |[BGDMdocker](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/)|[micropan](https://cran.r-project.org/web/packages/micropan/index.html)|[Panaconda](https://github.com/aswarren/pangenome_graphs)|                                          
 |...|[MSPminer](https://www.enterome.com/downloads/)|[PanGeT](https://github.com/PanGeTv1/PanGeT)|                                                                                  
-|C|...|[PanACEA](https://github.com/JCVenterInstitute/PanACEA/)|                                                                                   
+|**C**|...|[PanACEA](https://github.com/JCVenterInstitute/PanACEA/)|                                                                                   
 |[CAMBer](http://bioputer.mimuw.edu.pl/camber/)|N|[PanGeneHome](https://pangenehome.lmge.uca.fr/)|                                      
 |...|[NGSPanPipe](https://github.com/Biomedinformatics/NGSPanPipe)|[Piggy](https://github.com/harry-thorpe/piggy)|                                                                                 
-|E|...|[PanVC](https://gitlab.com/dvalenzu/PanVC)|                                                                                    
+|**E**|...|[PanVC](https://gitlab.com/dvalenzu/PanVC)|                                                                                    
 |[EDGAR](https://www.uni-giessen.de/de/fbz/fb08/Inst/bioinformatik/software/EDGAR)|P|[PGAP-X](https://pgapx.zhaopage.com/)|   
 |[eCAMBer](http://bioputer.mimuw.edu.pl/ecamber/)|PanCGH †|...|                                    
 |[EUPAN](https://cgm.sjtu.edu.cn/eupan/index.html)|[progMauve](https://darlinglab.org/mauve/mauve.html)|R|                                 
 |...|Panseq †|[Roary](http://sanger-pathogens.github.io/Roary/)|                                                                                 
-|G|[PGAT](http://tools.uwgenomics.org/pgat/)|[RPAN](http://cgm.sjtu.edu.cn/3kricedb/)|                                                                                   
+|**G**|[PGAT](http://tools.uwgenomics.org/pgat/)|[RPAN](http://cgm.sjtu.edu.cn/3kricedb/)|                                                                                   
 |[get_phylomarkers](https://github.com/vinuesa/get_phylomarkers)|[PanOCT](https://sourceforge.net/projects/panoct/)|...|                      
 |[get_homologues](https://github.com/eead-csic-compbio/get_homologues)|[PGAP](https://sourceforge.net/projects/pgap/)|S|                
 |...|[PanCake](https://bitbucket.org/CorinnaErnst/pancake/wiki/Home)|SOP (pg) †| 
-|H|[PanFunPro](https://zenodo.org/record/7583)|[SplitMEM](https://sourceforge.net/projects/splitmem/)|
+|**H**|[PanFunPro](https://zenodo.org/record/7583)|[SplitMEM](https://sourceforge.net/projects/splitmem/)|
 |[Hierarchicalsets](https://cran.r-project.org/web/packages/hierarchicalSets/index.html)|Pannotator †|[seqana](https://www.uni-ulm.de/en/in/institute-of-theoretical-computer-science/research/seqana.html)|
 |[Harvest](https://github.com/marbl/harvest)|PanGP †|[Scoary](https://github.com/AdmiralenOla/Scoary)|
 |...|PanTetris †|[seq-seq-pan](https://gitlab.com/rki_bioinformatics/seq-seq-pan)|
-|I|[PanFP](https://github.com/srjun/PanFP)|...|
+|**I**|[PanFP](https://github.com/srjun/PanFP)|...|
 |[ITEP](https://hood-price.isbscience.org/)|[Prokka](http://www.vicbioinformatics.com/software.prokka.shtml)|V|
 |...|[PanCoreGen](https://sourceforge.net/projects/pancoregen1/)|‘VarDetPGI’|
 
