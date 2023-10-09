@@ -50,7 +50,7 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |                                                                                       
 |[AGAPE](https://github.com/yeastgenome/AGAPE) | [KinFin](https://github.com/DRL/kinfin)|[PGAdb-builder](http://wgmlstdb.imst.nsysu.edu.tw/)|                              
 |...|M|[PanTools](https://github.com/sheikhizadeh/pantools)|                                      
-|B|[MCL](http://micans.org/mcl/)|[Phandango](https://github.com/jameshadfield/phandango)|                                      
+|**B**|[MCL](http://micans.org/mcl/)|[Phandango](https://github.com/jameshadfield/phandango)|                                      
 |[BPGA](https://sourceforge.net/projects/bpgatool/)|[Mugsy-A](https://mugsy.sourceforge.net/)|PanWeb †|                                 
 |[Bloom FT](https://github.com/GuillaumeHolley/BloomFilterTrie)|MetaRef †|[PanViz](https://github.com/thomasp85/PanViz)|                     
 |[BGDMdocker](https://github.com/cgwyx/debian_prokka_panx_antismash_biodocker/)|[micropan](https://cran.r-project.org/web/packages/micropan/index.html)|[Panaconda](https://github.com/aswarren/pangenome_graphs)|                                          
