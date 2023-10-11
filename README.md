@@ -49,7 +49,7 @@ Hit the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.htm
 
 # List with the pangenome analysis methods and hyperlinks
 
-|A                                             |K|[panX](https://pangenome.org/)|                                                                                      
+|A                                             |K|<span style="font-weight:normal">[panX](https://pangenome.org/)</span>|                                                                                      
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |                                                                                       
 |[AGAPE](https://github.com/yeastgenome/AGAPE) | [KinFin](https://github.com/DRL/kinfin)|[PGAdb-builder](http://wgmlstdb.imst.nsysu.edu.tw/)|                              
 |...|**M**|[PanTools](https://github.com/sheikhizadeh/pantools)|                                      
