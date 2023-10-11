@@ -43,11 +43,14 @@ The Kurīmu data collection offers a variety of organized and ready to use infor
 
 The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publication), in lieu of Data Supplements: DS1 for all pangenomes; DS2 for gene-level pangenomes and missing values for family clusters; DS3 when C+P+U=T (see Box 2, original publication); DS4 for duplicate entries with variable counts for pangenome sets.
 
+# How to access
+
+Hit the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html) to start browsing Kurīmu.
 
 # List with the pangenome analysis methods and hyperlinks
 
 |A                                             |K|[panX](https://pangenome.org/)|                                                                                      
-| -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |                                                                                       
+| :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |                                                                                       
 |[AGAPE](https://github.com/yeastgenome/AGAPE) | [KinFin](https://github.com/DRL/kinfin)|[PGAdb-builder](http://wgmlstdb.imst.nsysu.edu.tw/)|                              
 |...|**M**|[PanTools](https://github.com/sheikhizadeh/pantools)|                                      
 |**B**|[MCL](http://micans.org/mcl/)|[Phandango](https://github.com/jameshadfield/phandango)|                                      
@@ -75,14 +78,3 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 |[ITEP](https://hood-price.isbscience.org/)|[Prokka](http://www.vicbioinformatics.com/software.prokka.shtml)|**V**|
 |...|[PanCoreGen](https://sourceforge.net/projects/pancoregen1/)|‘VarDetPGI’|
 
-
-
-
-
-
-
-
-
-# How to access
-
-Hit the [link](http://pangenome.s3-website-us-east-1.amazonaws.com/pangenome.html) to start browsing Kurīmu.
