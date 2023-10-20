@@ -45,7 +45,7 @@ The boolean fields DS1-DS4 correspond to subsets (see Table 3, original publicat
 
 # How to access
 
-Hit the [link](https://alexanmv.github.io/Kurimu-catalogue/web%20page%20with%20array) to start browsing Kurīmu.
+Hit the [link](https://alexanmv.github.io/Kurimu-catalogue/) to start browsing Kurīmu.
 
 # List with the pangenome analysis methods and hyperlinks
 
